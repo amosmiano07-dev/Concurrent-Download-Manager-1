@@ -1,0 +1,19 @@
+# Videos
+*.mp4
+
+# Logs
+*.log
+
+# Zip files
+*.zip
+
+# Executables
+webapp
+multi_thread
+my_webapp
+simple_download
+phase1
+range_test
+test_setup
+testsetup
+get_size
